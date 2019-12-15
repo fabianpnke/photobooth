@@ -84,7 +84,7 @@ QFrame#GreeterMessage QLabel#message {
 /* Countdown Screen */
 
 QFrame#CountdownMessage {
-    background-color: #eeeeee;
+    background-color: #ffffff;
     border-style: outset;
     border-width: 2px;
     border-radius: 30px;
