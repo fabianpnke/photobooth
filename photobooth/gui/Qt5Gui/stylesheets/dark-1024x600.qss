@@ -88,7 +88,7 @@ QFrame#CountdownMessage {
     border-style: outset;
     border-width: 2px;
     border-radius: 30px;
-    border-color: #eeeeee;
+    border-color: #ffffff;
     margin: 20px;
     padding: 30px;
 }
